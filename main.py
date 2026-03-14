@@ -2019,6 +2019,7 @@ class MainWindow(QMainWindow):
         self.load_settings()
 
         self.setWindowTitle("PY MYCROFT 2.0")
+        self.setWindowIcon(QIcon("logo.png"))
         self.resize(340, 620)
         self.setMinimumSize(300, 550)
         self.setStyleSheet("background-color: #1a1a1a;")
@@ -2520,6 +2521,7 @@ if __name__ == "__main__":
     except RuntimeError:
         pass
     app = QApplication(sys.argv)
+    app.setWindowIcon(QIcon("logo.png"))
 
     # Check memory size and show cleanup dialog if needed
     try:
