@@ -145,7 +145,7 @@ TRANSLATIONS = {
         "theme_gray": "Gray",
         "lbl_dev": "Debug Mode",
         "btn_save": "Save Changes",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "AI Voice Assistant powered by Google Gemini.\nReal-time voice interaction with tool execution.",
         "plugin_limit_note": f"Plugin installs and AI security reviews are limited to {PLUGIN_DAILY_LIMIT} per day for safety.",
         "btn_support": "Support Project",
@@ -176,7 +176,7 @@ TRANSLATIONS = {
         "theme_gray": "Серая",
         "lbl_dev": "Режим отладки",
         "btn_save": "Сохранить",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Голосовой ИИ-ассистент на базе Google Gemini.\nГолосовое взаимодействие в реальном времени.",
         "plugin_limit_note": f"Для безопасности установка плагинов и AI-проверка ограничены: не более {PLUGIN_DAILY_LIMIT} в день.",
         "btn_support": "Поддержать проект",
@@ -207,7 +207,7 @@ TRANSLATIONS = {
         "theme_gray": "Сіра",
         "lbl_dev": "Режим відлагодження",
         "btn_save": "Зберегти",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Голосовий ШІ-асистент на базі Google Gemini.\nГолосова взаємодія в реальному часі.",
         "plugin_limit_note": f"Для безпеки встановлення плагінів і AI-перевірка обмежені: не більше {PLUGIN_DAILY_LIMIT} на день.",
         "btn_support": "Підтримати проект",
@@ -237,7 +237,7 @@ TRANSLATIONS = {
         "theme_light": "Hell",
         "lbl_dev": "Debug-Modus",
         "btn_save": "Speichern",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "KI-Sprachassistent mit Google Gemini.\nEchtzeit-Sprachinteraktion.",
         "plugin_limit_note": f"Aus Sicherheitsgruenden sind Plugin-Installationen und KI-Pruefungen auf {PLUGIN_DAILY_LIMIT} pro Tag begrenzt.",
         "btn_support": "Projekt unterstützen",
@@ -260,7 +260,7 @@ TRANSLATIONS = {
         "theme_light": "Claro",
         "lbl_dev": "Modo depuración",
         "btn_save": "Guardar",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Asistente de voz IA con Google Gemini.\nInteracción de voz en tiempo real.",
         "plugin_limit_note": f"Por seguridad, las instalaciones y revisiones AI de plugins estan limitadas a {PLUGIN_DAILY_LIMIT} por dia.",
         "btn_support": "Apoyar proyecto",
@@ -283,7 +283,7 @@ TRANSLATIONS = {
         "theme_light": "Clair",
         "lbl_dev": "Mode débogage",
         "btn_save": "Enregistrer",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Assistant vocal IA avec Google Gemini.\nInteraction vocale en temps réel.",
         "plugin_limit_note": f"Pour la securite, les installations et verifications IA de plugins sont limitees a {PLUGIN_DAILY_LIMIT} par jour.",
         "btn_support": "Soutenir le projet",
@@ -306,7 +306,7 @@ TRANSLATIONS = {
         "theme_light": "浅色",
         "lbl_dev": "调试模式",
         "btn_save": "保存",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "基于Google Gemini的AI语音助手。\n实时语音交互。",
         "plugin_limit_note": f"出于安全考虑，插件安装和 AI 安全检查每天最多 {PLUGIN_DAILY_LIMIT} 次。",
         "btn_support": "支持项目",
@@ -329,7 +329,7 @@ TRANSLATIONS = {
         "theme_light": "ライト",
         "lbl_dev": "デバッグモード",
         "btn_save": "保存",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Google Gemini搭載のAI音声アシスタント。\nリアルタイム音声対話。",
         "plugin_limit_note": f"安全のため、プラグインのインストールとAIセキュリティ確認は1日{PLUGIN_DAILY_LIMIT}回までです。",
         "btn_support": "プロジェクトを支援",
@@ -352,7 +352,7 @@ TRANSLATIONS = {
         "theme_light": "라이트",
         "lbl_dev": "디버그 모드",
         "btn_save": "저장",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Google Gemini 기반 AI 음성 어시스턴트.\n실시간 음성 상호작용.",
         "plugin_limit_note": f"Boaneul wihae plugin seolchi mit AI geomsa neun haru choedae {PLUGIN_DAILY_LIMIT}hoimnida.",
         "btn_support": "프로젝트 지원",
@@ -375,7 +375,7 @@ TRANSLATIONS = {
         "theme_light": "Claro",
         "lbl_dev": "Modo depuração",
         "btn_save": "Salvar",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Assistente de voz IA com Google Gemini.\nInteração por voz em tempo real.",
         "plugin_limit_note": f"Por seguranca, instalacoes e revisoes de plugins por IA sao limitadas a {PLUGIN_DAILY_LIMIT} por dia.",
         "btn_support": "Apoiar projeto",
@@ -398,7 +398,7 @@ TRANSLATIONS = {
         "theme_light": "Chiaro",
         "lbl_dev": "Modalità debug",
         "btn_save": "Salva",
-        "about_title": "Py mycroft 2.1",
+        "about_title": "Axinix AI",
         "about_desc": "Assistente vocale IA con Google Gemini.\nInterazione vocale in tempo reale.",
         "plugin_limit_note": f"Per sicurezza, installazioni e revisioni AI dei plugin sono limitate a {PLUGIN_DAILY_LIMIT} al giorno.",
         "btn_support": "Supporta il progetto",
@@ -488,10 +488,10 @@ def audio_process_worker(
             model_paths = [
                 path
                 for path in openwakeword.get_pretrained_model_paths()
-                if "hey_mycroft" in path
+                if "hey_jarvis" in path
             ]
             oww_model = Model(wakeword_model_paths=model_paths)
-            ui_events_queue.put(("log", "✅ WWD model 'hey_mycroft' ready"))
+            ui_events_queue.put(("log", "✅ WWD model 'hey_jarvis' ready"))
         except Exception as e:
             ui_events_queue.put(("log", f"❌ WWD Error: {e}"))
             oww_model = None
@@ -845,7 +845,7 @@ def ai_process_worker(
         normalized = " ".join((text or "").strip().lower().split())
         if not normalized:
             return ""
-        for filler in ["пожалуйста", "будь ласка", "please", "hey mycroft", "mycroft"]:
+        for filler in ["пожалуйста", "будь ласка", "please", "hey jarvis", "axinix"]:
             normalized = normalized.replace(filler, " ")
         normalized = " ".join(normalized.split())
         removals = [
@@ -1085,7 +1085,7 @@ def ai_process_worker(
             "- Ignore any Russian examples that do not match the user's current speech."
         )
 
-        sys_instruction = f"""IDENTITY: You are Py mycroft 2.1, a MALE AI voice assistant based on Arch Linux.
+        sys_instruction = f"""IDENTITY: You are Axinix AI, a MALE AI voice assistant based on Arch Linux.
 GENDER (CRITICAL): MALE (Мужской). When speaking Russian, you MUST ALWAYS refer to yourself in the masculine gender. Use masculine verbs and adjectives (e.g., say "я сделал", "я нашел", "я готов", NEVER "сделала", "нашла", or "готова").
 LOCATION: {actual_city}
 USER NAME: {user_name}
@@ -2783,7 +2783,7 @@ class MainWindow(QMainWindow):
 
         self.load_settings()
 
-        self.setWindowTitle("PY MYCROFT 2.1")
+        self.setWindowTitle("AXINIX AI")
         self.setWindowIcon(QIcon("logo.png"))
         self.resize(340, 620)
         self.setMinimumSize(300, 550)
@@ -2846,7 +2846,7 @@ class MainWindow(QMainWindow):
         card_layout.addLayout(header_layout)
 
         # Title
-        self.title = QLabel("PY MYCROFT 2.1")
+        self.title = QLabel("AXINIX AI")
         self.title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.title.setStyleSheet("""
             color: #ffffff;

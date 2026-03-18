@@ -61,16 +61,16 @@ _AI_REVIEW_CACHE = {}
 _http = requests.Session()
 _http.headers.update(
     {
-        "User-Agent": "PyMycroft-PluginInstaller/2.1",
+        "User-Agent": "AxinixAI-PluginInstaller/1.0",
         "Accept": "application/vnd.github+json",
     }
 )
 IGNORED_QUERY_TOKENS = {
     "plugin",
     "plugins",
-    "mycroft",
+    "axinix",
     "pycroft",
-    "pymycroft",
+    "axinix",
     "install",
     "installer",
     "github",
@@ -432,15 +432,15 @@ def search_github_plugins(query: str):
         search_urls = [
             (
                 "https://api.github.com/search/repositories"
-                f"?q={core_query}+topic:pymycroft-plugin+in:name,description&sort=stars&order=desc&per_page=8"
+                f"?q={core_query}+topic:axinix-plugin+in:name,description&sort=stars&order=desc&per_page=8"
             ),
             (
                 "https://api.github.com/search/repositories"
-                f"?q={core_query}+pymycroft+in:name,description&sort=updated&order=desc&per_page=8"
+                f"?q={core_query}+axinix+in:name,description&sort=updated&order=desc&per_page=8"
             ),
             (
                 "https://api.github.com/search/repositories"
-                "?q=topic:pymycroft-plugin&sort=updated&order=desc&per_page=20"
+                "?q=topic:axinix-plugin&sort=updated&order=desc&per_page=20"
             ),
         ]
 
